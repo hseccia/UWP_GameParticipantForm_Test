@@ -1,0 +1,1 @@
+C:\Users\derpb\source\repos\UWP_GameParticipantForm_Test\UWP_GameParticipantForm_Test\UWP_GameParticipantForm_Test.csproj;x86
